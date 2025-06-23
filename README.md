@@ -1,7 +1,7 @@
 ## Hi there, I'm Ryan 👋
 
 * 💼 I am currently a Staff Software Engineer at [Groundfloor Finance](https://groundfloor.com)
-* 🌎 A [digital nomad](https://en.wikipedia.org/wiki/Digital_nomad) with a stable homebase in near Denver
+* 🌎 A [digital nomad](https://en.wikipedia.org/wiki/Digital_nomad) with a stable homebase near Denver
 
 ### Tech & Tools
 
