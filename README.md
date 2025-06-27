@@ -1,9 +1,10 @@
-## Hi there, I'm Ryan 👋
+### Hi there, I'm Ryan 👋
 
 * 💼 I am currently a Staff Software Engineer at [Groundfloor Finance](https://groundfloor.com)
 * 🌎 A [digital nomad](https://en.wikipedia.org/wiki/Digital_nomad) with a stable homebase near Denver
+* 📫 Feel free to reach out: hi@rhyn0bytes.net
 
-### Tech & Tools
+#### Tech & Tools
 
 [![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)](#)
 [![GraphQL](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white)](#)
