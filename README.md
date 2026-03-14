@@ -1,6 +1,6 @@
 ### Hi there, I'm Ryan 👋
 
-* 💼 I am currently a Staff Software Engineer at [Groundfloor Finance](https://groundfloor.com)
+* 💼 I am currently a Principal Software Engineer at [Groundfloor Finance](https://groundfloor.com)
 * 🌎 A [digital nomad](https://en.wikipedia.org/wiki/Digital_nomad) with a stable homebase near Denver
 * 📫 Feel free to reach out: hi@rhyn0bytes.net
 
